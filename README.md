@@ -1,4 +1,4 @@
-<h1 align="center">❝ Welcome folks, ready for some giggles~? ❞</h1>
+<h1 align="center">❝ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=23&pause=1000&color=BC3BFE&center=true&vCenter=true&width=435&lines=Oh%2C+and+I+thought+I+was+the+clown!;Let+the+lies+spread+like+wildfire!!!;Ever+told+a+lie%3F+Then+we're+pals!;Time+for+some+real+DRAMA!;Let+the+show+BEGIN!" alt="Typing SVG" /></a> ❞</h1>
 
 ![.](https://imgur.com/RUwrZxb.png)
 
